@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_Practise/001_Practise.iml" filepath="$PROJECT_DIR$/001_Practise/001_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_Practise/002_Practise.iml" filepath="$PROJECT_DIR$/002_Practise/002_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_practise/003_practise.iml" filepath="$PROJECT_DIR$/003_practise/003_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004_Practise/004_Practise.iml" filepath="$PROJECT_DIR$/004_Practise/004_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005_practise/005_practise.iml" filepath="$PROJECT_DIR$/005_practise/005_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006_practise/006_practise.iml" filepath="$PROJECT_DIR$/006_practise/006_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-practise/007-practise.iml" filepath="$PROJECT_DIR$/007-practise/007-practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008_practise/008_practise.iml" filepath="$PROJECT_DIR$/008_practise/008_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_Basic_1.0.iml" filepath="$PROJECT_DIR$/.idea/java_Basic_1.0.iml" />
+    </modules>
+  </component>
+</project>
